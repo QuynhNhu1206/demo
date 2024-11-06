@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUANCAFE", "QUANCAFE\QUANCAFE.csproj", "{F9E4380F-2E5A-4623-8ED0-57CC9785C3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E4380F-2E5A-4623-8ED0-57CC9785C3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E4380F-2E5A-4623-8ED0-57CC9785C3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E4380F-2E5A-4623-8ED0-57CC9785C3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E4380F-2E5A-4623-8ED0-57CC9785C3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {910630B1-56E9-4A9C-952F-D6BBB5853783}
+	EndGlobalSection
+EndGlobal
